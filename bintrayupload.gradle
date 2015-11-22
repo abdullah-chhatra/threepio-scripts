@@ -10,7 +10,7 @@ install {
                 packaging 'aar'
 
                 // Add your description here
-                groupId 	'free.abdullah.threepio'
+                groupId 	'com.abdullah.threepio'
                 artifactId  artifact_id
                 name 		project_name
                 description project_desc
