@@ -1,6 +1,6 @@
 
 version = project_version
-group = 'free.abdullah.threepio'
+group = 'com.abdullah.threepio'
 
 install {
     repositories.mavenInstaller {
