@@ -1,6 +1,6 @@
 
 version = project_version
-group = 'com.threepio'
+group = 'com.achhatra.threepio'
 
 install {
     repositories.mavenInstaller {
@@ -10,7 +10,7 @@ install {
                 packaging 'aar'
 
                 // Add your description here
-                groupId 	'com.abdullah.threepio'
+                groupId 	'com.achhatra.threepio'
                 artifactId  artifact_id
                 name 		project_name
                 description project_desc
